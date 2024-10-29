@@ -3,7 +3,7 @@
 
 #### 📊 Aspiring Data Analyst with a passion for insights and storytelling through data
 
-#### 🛠️ Building expertise in Python, SQL, Tableau, Power Query, PowerBI, and Excel 
+#### 🛠️ Building expertise in Python, SQL, Tableau, PowerBI, and Excel 
 
 
 ## 🌟 About Me
@@ -11,19 +11,27 @@ I've always enjoyed finding solutions to specific business problems. I love expl
 
 ## 🛠️ Skills
 
-**Programming & Data Analysis:** Python, SQL, Excel (Advanced VBA)
+**Programming & Data Analysis:** 
 
-**Data Visualization:** Tableau, Power BI
-
-**Business & Marketing:** Shopify Store Management
-
-**Customer Insight:** Retail and Service Industry Experience
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Excel Badge](https://img.shields.io/badge/Excel-Advanced-brightgreen?logo=microsoft-excel&logoColor=white&style=for-the-badge)   ![SQL Badge](https://img.shields.io/badge/SQL-Skills-CC2927?logo=postgresql&logoColor=white&style=for-the-badge)
 
 
-📈 Featured Projects
-Superstore Sales Analysis: A deep dive into sales, profitability, and customer segmentation
-Disneyland vs. Disney World Comparison: Insights into visitor patterns and park performance
-What High School Graduates Do Post-Graduation: Exploring trends in education and career choices
+
+**Data Visualization:** 
+
+ ![Tableau Badge](https://img.shields.io/badge/Tableau-Skills-blue?logo=Tableau&logoColor=white&style=flat) ![Power BI Badge](https://img.shields.io/badge/Power%20BI-Skills-F2C811?logo=Power%20BI&logoColor=black&style=flat)   ![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-Skills-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
+
+
+**Business & Marketing:**
+
+![Shopify Badge](https://img.shields.io/badge/Shopify-Skills-8DB543?logo=Shopify&logoColor=white&style=flat)
+
+
+**📈 Featured Projects:**
+
+***Superstore Sales Analysis:*** A deep dive into sales, profitability, and customer segmentation
+
+
 
 ## 📫 Let's Connect!
 - **LinkedIn:** www.linkedin.com/in/walter-vasquez10
