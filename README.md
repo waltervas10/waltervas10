@@ -27,9 +27,6 @@ I've always enjoyed finding solutions to specific business problems. I love expl
 ![Shopify Badge](https://img.shields.io/badge/Shopify-Skills-8DB543?logo=Shopify&logoColor=white&style=flat)
 
 
-**📈 Featured Projects:**
-
-***Superstore Sales Analysis:*** A deep dive into sales, profitability, and customer segmentation
 
 
 
