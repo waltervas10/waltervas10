@@ -27,6 +27,9 @@ I've always enjoyed finding solutions to specific business problems. I love expl
 ![Shopify Badge](https://img.shields.io/badge/Shopify-Skills-8DB543?logo=Shopify&logoColor=white&style=flat)
 
 
+# Check Out My Latest Project:  ***[Superstore Sales Data Analysis Project](https://github.com/waltervas10/Superstore-Sales-Project)***
+
+
 
 
 
