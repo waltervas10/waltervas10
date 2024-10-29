@@ -9,6 +9,8 @@
 ## 🌟 About Me
 I've always enjoyed finding solutions to specific business problems. I love exploring how businesses operate, identifying ways they can improve, and envisioning strategies for growth and innovation. Discovering data and statistics introduced me to a whole new dimension, showing me how integral data is to driving the business world. This realization fueled my passion to dive deeper into data, build expertise with powerful analytics tools, and leverage insights to make a meaningful impact.
 
+### Check Out My Latest Project:  ***[Superstore Sales Data Analysis Project](https://github.com/waltervas10/Superstore-Sales-Project)***
+
 ## 🛠️ Skills
 
 **Programming & Data Analysis:** 
@@ -22,14 +24,12 @@ I've always enjoyed finding solutions to specific business problems. I love expl
  ![Tableau Badge](https://img.shields.io/badge/Tableau-Skills-blue?logo=Tableau&logoColor=white&style=flat) ![Power BI Badge](https://img.shields.io/badge/Power%20BI-Skills-F2C811?logo=Power%20BI&logoColor=black&style=flat)   ![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-Skills-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat)
 
 
+
+
+
 **Business & Marketing:**
 
 ![Shopify Badge](https://img.shields.io/badge/Shopify-Skills-8DB543?logo=Shopify&logoColor=white&style=flat)
-
-
-# Check Out My Latest Project:  ***[Superstore Sales Data Analysis Project](https://github.com/waltervas10/Superstore-Sales-Project)***
-
-
 
 
 
@@ -37,3 +37,11 @@ I've always enjoyed finding solutions to specific business problems. I love expl
 - **LinkedIn:** www.linkedin.com/in/walter-vasquez10
 
 - **Email:** vasquezwalter10@gmail.com
+
+
+
+
+
+
+
+
